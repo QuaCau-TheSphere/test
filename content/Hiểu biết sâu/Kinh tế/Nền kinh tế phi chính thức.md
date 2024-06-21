@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-19T19:34
+updated: 2024-06-21T17:02
 ---
 # Quỹ tín dụng
 
@@ -21,7 +21,7 @@ updated: 2024-06-19T19:34
 
 [Giả thiết về thị trường của nền kinh tế phi chính thức](Gi%E1%BA%A3%20thi%E1%BA%BFt%20v%E1%BB%81%20th%E1%BB%8B%20tr%C6%B0%E1%BB%9Dng%20c%E1%BB%A7a%20n%E1%BB%81n%20kinh%20t%E1%BA%BF%20phi%20ch%C3%ADnh%20th%E1%BB%A9c.md)
 
-[Xù ngân hàng](../Vay%20ti%E1%BB%81n/X%C3%B9%20ng%C3%A2n%20h%C3%A0ng.md)
+[Xù ngân hàng](../Ng%C3%A2n%20h%C3%A0ng,%20t%C3%ADn%20d%E1%BB%A5ng,%20vay%20ti%E1%BB%81n/X%C3%B9%20ng%C3%A2n%20h%C3%A0ng.md)
 
 [Trợ vốn giúp người nghèo: Những món tiền nhỏ đẩy lùi nạn cho vay nặng lãi - Tuổi Trẻ Online](https://tuoitre.vn/tro-von-giup-nguoi-ngheo-nhung-mon-tien-nho-day-lui-nan-cho-vay-nang-lai-20220612094859913.htm)
 
