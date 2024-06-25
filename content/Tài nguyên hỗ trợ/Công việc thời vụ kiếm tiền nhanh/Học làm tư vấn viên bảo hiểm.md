@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-06-25T15:52
+updated: 2024-06-25T15:58
 ---
 
 Một buổi được tính là một buổi sáng hoặc chiều, 2-5 tiếng. Một ngày gồm 2 buổi sáng chiều.
@@ -22,13 +22,13 @@ Phần Sau Bảo Việt Lập Nghiệp thì học lúc nào cũng được, khô
 - **Địa điểm học:** 233 Đồng Khởi, Q1
 - **Yêu cầu:** Phải phỏng vấn xin việc và đậu thì mới được vào học
 
+# Nếu có trở thành đại lý ảo sau đó
+Đại lý ảo tức là có đại lý thật đẩy doanh số cho. Lương từ công ty sẽ trả cho trưởng nhóm. 
 
-# Nếu có đi làm ảo sau đó
-Đi làm ảo tức là có nhân viên thật đẩy doanh số cho. Lương từ công ty sẽ trả cho trưởng nhóm. Khi có đủ doanh số thì được đi du lịch.
+Làm đại lý ảo thì có bảo hiểm công ty mua cho (không phải bảo hiểm xã hội). Khi có đủ doanh số thì có được những quyền lợi khác.
 
 ## Bảo Việt
-- **Quyền lợi:** Không cần chấm công. Có bảo hiểm công ty mua cho (không phải bảo hiểm xã hội)
-- **Lương chấm công:** không có
+- **Lương chấm công:** jhông cần chấm công, không có lương
 
 ## Prudential
 - **Yêu cầu:** Phải lên công ty chấm công bằng vân tay, checkout cách checkin tối thiểu 2 tiếng. Tháng đầu chấm công 5 ngày là được. Tháng thứ 2 mới bắt đầu chấm đủ 80% ngày đi làm, tức là 17 ngày/tháng.
