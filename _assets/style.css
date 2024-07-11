@@ -1,0 +1,38 @@
+.red {
+  color: red;
+}
+
+/* ::before,
+::after {
+  box-sizing: inherit;
+} */
+
+figure.quote {
+  display: flex;
+  gap: .75em;
+  margin: 1em;
+}
+
+.col1 {
+  display: flex;
+  flex-direction: column;
+  text-align: end
+}
+
+.author {
+  font-size: .5em;
+  text-align: start;
+  white-space: nowrap;
+}
+.author .name{
+  font-weight: bold;
+}
+
+.author img {
+  min-width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  position: relative;
+  top: 0
+}
